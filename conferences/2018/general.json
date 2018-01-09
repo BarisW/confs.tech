@@ -36,6 +36,15 @@
     "endDate": "2018-05-05"
   },
   {
+    "name": "Frontend United",
+    "url": "https://www.frontendunited.org/",
+    "startDate": "2018-05-31",
+    "endtDate": "2018-06-02",
+    "city": "Utrecht",
+    "country": "The Netherlands",
+    "twitter": "@frontendunited"
+  },
+  {
     "name": "An Event Apart",
     "url": "https://aneventapart.com/event/seattle-2018",
     "startDate": "2018-04-02",
